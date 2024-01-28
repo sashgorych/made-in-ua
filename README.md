@@ -350,4 +350,109 @@
 ```
 ## /khlopchykam
 ## Хлопчикам ukr
+```
+        <div class="catalog-content active">
+            <div class="catalog-items">
+                <div class="product-list">
+                    <div class="products-container">
+                        <div class="item full_screen">
+                            <div class="img">
+                                <a href="./khlopchykam/akcii" title="Акції">
+                                    <img src="/images/catalog/boys/1.jpg" alt="akcii">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/akcii">Розпродаж</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/akcii" title="Акції" class="custom-button">Купуй зараз</a>
+                            </div>
+                        </div>
 
+
+                        <div class="item">
+                            <div class="img">
+                                <a href="./khlopchykam/Kofti" title="Кофти">
+                                    <img src="/images/catalog/boys/2-1.jpg" alt="Кофти">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/Kofti">Кофти</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Kofti" title="" class="custom-button">Дивитись</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="img">
+                                <a href="./khlopchykam/Golfi" title="Гольфи">
+                                    <img src="/images/catalog/boys/2-2.jpg" alt="Гольфи">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/Golfi">Гольфи</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Golfi" title="Гольфи" class="custom-button">Дивитись</a>
+                            </div>
+                        </div>
+
+                        <div class="item full_screen">
+                            <div class="img">
+                                <a href="./khlopchykam/Kostyumi" title="Костюми">
+                                    <img src="/images/catalog/boys/3.jpg" alt="Костюми">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/Kostyumi">Костюми</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Kostyumi" title="Костюми" class="custom-button">Дивитись</a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="img">
+                                <a href="./khlopchykam/Shtani" title="Штани">
+                                    <img src="/images/catalog/boys/4-1.jpg" alt="Штани">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/Shtani">Штани</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Shtani" title="Штани" class="custom-button">Дивитись</a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="img">
+                                <a href="./khlopchykam/Zhiletki" title="Жилетки">
+                                    <img src="/images/catalog/boys/4-2.jpg" alt="Жилетки">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/Zhiletki">Жилетки</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Zhiletki" title="Жилетки" class="custom-button">Дивитись</a>
+                            </div>
+                        </div>
+                        <div class="item full_screen">
+                            <div class="img">
+                                <a href="#" title="">
+                                    <img src="/images/catalog/boys/5.jpg" alt="Поло / Футболки">
+                                </a>
+                            </div>
+                            <p><a href="#">Поло / Футболки</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Polo" title="" class="default_btn_white">Поло</a>
+                                <a href="./khlopchykam/Futbolki" title="" class="default_btn_white">Футболки</a>
+                            </div>
+                        </div>
+                        <div class="item full_screen">
+                            <div class="img">
+                                <a href="./khlopchykam/Shorti" title="Шорти">
+                                    <img src="/images/catalog/boys/6.jpg" alt="Шорти">
+                                </a>
+                            </div>
+                            <p><a href="./khlopchykam/Shorti">Шорти</a></p>
+                            <div class="btns_row_center">
+                                <a href="./khlopchykam/Shorti" title="Шорти" class="default_btn_white">Шорти</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+```
