@@ -1,3 +1,25 @@
+## таблиця розмірів
+```
+1) Таблиця розмірів,в img вставити посилання на картинку з розмірами
+вставити після div.pr_size_block
+
+<div data-open="size-table" class="size-tablestyled"><p>Довідник розмірів</p></div>
+     <div style="display: none;" class="popup_txt-box" id="size-table">
+           <div class="p_t_title">Таблиця розмірів</div>
+                <div class="p_t_content">
+                     <img src="" alt="size table">
+                 </div>
+           </div>
+     </div>
+</div>
+
+2) Переклад для деяких фраз:
+вставити після <p id="notification-product-text">
+
+<p id="to-order-text" class="hidden-object">Під замовлення</p>
+<p id="to-order-expl" class="hidden-object">Саме цей розмір , зараз у пошитті , термін відправки до 10 днів.</p>
+
+```
 ## /zhinkam
 ## жінкам ukr
 ```
