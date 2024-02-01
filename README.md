@@ -8,7 +8,6 @@
            <div class="p_t_title">Таблиця розмірів</div>
                 <div class="p_t_content">
                      <img src="" alt="size table">
-                 </div>
            </div>
      </div>
 </div>
