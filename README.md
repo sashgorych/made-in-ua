@@ -1,3 +1,852 @@
+## Трьохнитка
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">65% котон , 35% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Двунитка
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% еластан</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Бавовна
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати - до 150°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Велюр
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">80% бавовна , 20%полієтер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max30.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 30°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим, не доторкаючись тканини.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Вельвет
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% еластан</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max30.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 30°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим, не доторкаючись тканини.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Джинс коттон
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+
+
+## діагональ
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Замш-діагональ
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">50% бавовна 50% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати -  делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Інтерлок
+```
+  <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати - не рекомендується.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## CoolMax
+```
+  <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% поліестер </span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати - не рекомендується.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Кулір
+```
+  <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна </span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати - 130° - 150°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Кулір пеньє
+```
+    <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна </span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати - 130° - 150°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Лакоста
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна </span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN"> прасувати  - делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Лакоста пеньє
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна </span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN"> прасувати  - делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Мікровельвет
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% еластан</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max30.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 30°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати - 130° -150°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Мікродайвінг на флісі
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  - не рекомендується.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## ОліФліс
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  - не рекомендується.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Плащівка
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  - не рекомендується.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Поліестер
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  - не рекомендується.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Рібана гладка
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% еластан</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  - до 150°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Рібана рубчик
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% еластан</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  - до 150°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Ріп-стоп
+```
+   <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">80% бавовна, 20% поліестер</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN"> прасувати  - делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Рубчик
+```
+<ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">Поліестер — 70%, Віскоза — 23%, Еластан — 7%</span>
+                                    </li>
+                                </ul>
+                                <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing"
+                                             class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="iron" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN"> прасувати  - делікатний режим.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Softshell
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% поліестер</span></li>
+                                </ul>
+                                                           <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing" class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - 30°- 40°</span>
+                                    </li>
+                                <li class="sc-hzMMVR cZjBKI">Прати -  окремо від іншого одягу, у делікатному режимі без віджиму. </span></li>
+                                <li class="sc-hzMMVR cZjBKI">Невеликі забруднення краще видаляти просто ганчіркою чи м'якою щіткою.   </span></li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+## Стрейч-кулір
+```
+<ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">95% бавовна, 5% еластан</span></li>
+                                </ul>
+                                                           <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max30.png" alt="washing" class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 30°</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  -150° - 180°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+
+## Стрейч
+```
+ <ul class="sc-kYrlTI fGeUZV">
+                                    <li><span class="sc-xyEDr divBbn composition-name">склад головної тканини:</span>
+                                        <span class="composition-value">100% бавовна</span></li>
+                                </ul>
+                                                           <ul class="sc-eHfRjS jwrbJX">
+                                    <li class="sc-hzMMVR cZjBKI">
+                                        <img src="/images/product-care/wash_max40.png" alt="washing" class="sc-biBsmb fZOfRe">
+                                        <span class="sc-tYqdw lmUjrN">прати - до 40°</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_bleach.png"
+                                            alt="bleaching" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не відбілювати</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/iron.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">прасувати  -150° - 200°.</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/not_dry.png"
+                                            alt="ironing" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не сушити в сушарці барабанного типу</span>
+                                    </li>
+                                    <li class="sc-hzMMVR cZjBKI"><img
+                                            src="/images/product-care/without_dry_cleaning.png"
+                                            alt="preservation" class="sc-biBsmb fZOfRe"><span class="sc-tYqdw lmUjrN">не чистити хімічно</span>
+                                    </li>
+                                </ul>
+```
+
 ## таблиця розмірів
 ```
 1) Таблиця розмірів(на сторінці товару),в img вставити посилання на картинку з розмірами
